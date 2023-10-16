@@ -7,4 +7,4 @@ hello word repository tutorial
 
 ### automation using cypress
 
--*learning girhub
+- learning github
